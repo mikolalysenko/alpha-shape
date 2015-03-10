@@ -2,6 +2,8 @@ alpha-shape
 ===========
 Computes the [alpha shape](http://en.wikipedia.org/wiki/Alpha_shape) of a point set.
 
+[Try a demo right now](https://mikolalysenko.github.io/alpha-shape/index.html)
+
 <img src="alpha.png">
 
 # Example
