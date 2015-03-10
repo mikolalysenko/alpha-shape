@@ -2,7 +2,7 @@ alpha-shape
 ===========
 Computes the [alpha shape](http://en.wikipedia.org/wiki/Alpha_shape) of a point set.
 
-
+<img src="alpha.png">
 
 # Example
 
